@@ -56,7 +56,7 @@
         industrial, and defense sectors.
     </p>
 
-    <p><a href="https://www.google.com">Click here to go to Google</a></p>
+    <p><a href="https://www.au.edu.pk/">Click here to go toAIR UNI WEBSITE</a></p>
 
     <!-- Note: Local file paths won't work in browsers unless the image exists on your system -->
     <img src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Air University logo.png" alt="Air University Logo" width="200" height="500">
